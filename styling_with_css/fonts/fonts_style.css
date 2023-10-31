@@ -1,11 +1,21 @@
+@counter-style thumbs {
+    system: cyclic;
+    symbols: "\1F44D";
+    suffix: " ";
+  }
+
+
 h1{
+    font-family: Impact;
     
 }
 
 p{
+    font-family: Helvetica;
 
 }
 
 ul{
-    list-style-type: space-counter;
+    list-style: space-counter;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
