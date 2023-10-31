@@ -6,14 +6,14 @@
 
 h1{
     font:Impact;
-    font-size: 48px;
-    font-weight: bold;
-    font-style: italic;
-    text-decoration: underline;
 }
 
 p{
   font-family:Verdana, Arial, Helvetica, sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline;
 }
 
 ul{
