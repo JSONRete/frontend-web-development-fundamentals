@@ -2,17 +2,14 @@
     system: cyclic;
     symbols: "\1F44D";
     suffix: " ";
-  }
-
+}
 
 h1{
-    font-family: Impact;
-    
+    font:Impact;
 }
 
 p{
-    font-family: Helvetica;
-
+  font-family:Verdana, Arial, Helvetica, sans-serif;
 }
 
 ul{
