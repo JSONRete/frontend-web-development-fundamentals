@@ -5,12 +5,14 @@
 }
 
 h1{
-    font:Impact;
+    font: 48px Impact;
 }
 
 p{
+
     font: italic bold 48px "Verdana, Arial, Helvetica, sans-serif New Roman";
 
+  /* text-decoration: underline; */
 }
 
 ul{
