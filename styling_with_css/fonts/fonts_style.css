@@ -10,7 +10,7 @@ h1{
 
 p{
     font: italic bold 48px "Verdana";
-    text-decoration: underline;
+    text-decoration: solid underline purple 4px;
 }
 
 ul{
