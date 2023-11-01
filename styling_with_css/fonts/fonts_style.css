@@ -11,8 +11,7 @@ h1{
 p{
 
     font: italic bold 48px "Verdana, Arial, Helvetica, sans-serif New Roman";
-
-  /* text-decoration: underline; */
+    text-decoration: underline;
 }
 
 ul{
