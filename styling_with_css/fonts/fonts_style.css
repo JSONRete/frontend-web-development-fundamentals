@@ -1,16 +1,15 @@
-@counter-style thumbs {
+/* @counter-style thumbs {
     system: cyclic;
     symbols: "\1F44D";
     suffix: " ";
-}
+} */
 
 h1{
     font: 48px Impact;
 }
 
 p{
-
-    font: italic bold 48px "Verdana, Arial, Helvetica, sans-serif New Roman";
+    font: italic bold 48px "Verdana";
     text-decoration: underline;
 }
 
