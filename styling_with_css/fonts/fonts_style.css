@@ -8,10 +8,9 @@ h1{
     font: 48px Impact;
 }
 
-p{
-    font: italic common-ligatures small-caps bold 48px "Verdana, Arial, Helvetica, sans-serif New Roman";
-    text-decoration: solid underline purple 4px;
-}
+p {
+    font: small-caps bold 24px Courier;
+  }
 
 ul{
     list-style: space-counter;
