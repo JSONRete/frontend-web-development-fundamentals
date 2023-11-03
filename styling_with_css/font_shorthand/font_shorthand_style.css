@@ -3,7 +3,5 @@ h1{
   }
   
   p{
-    font-family: Consolas, "Courier New", Courier, monospace;
-    font-weight: bold;
-    font-size: 16pt;
+    font: 16pt Consolas, "Courier New", Courier, monospace;
   }
