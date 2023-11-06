@@ -1,0 +1,17 @@
+.cox {
+    width: 200px;
+    border: 5px solid black;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+}
+
+.red {
+    background-color: red;
+}
+
+.blk {
+    background-color: black;
+}
