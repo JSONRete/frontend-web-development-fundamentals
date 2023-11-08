@@ -15,3 +15,23 @@ li {
     background-color: rgb(171, 217, 229);
     border: 5px solid white;
 }
+
+/* Karl's code: */
+
+/* ul{
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  width: 90px;
+  height: 90px;
+  font-size: 80px;
+  font-family: sans-serif;
+  background-color: lightblue;
+  margin: 5px;
+  list-style: none;
+  text-align: center;
+} */
